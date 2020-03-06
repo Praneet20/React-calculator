@@ -6,7 +6,7 @@ export default class Calculator extends Component {
     constructor(props) {
       super(props)
       this.state = {
-         count: 0
+         count: 30
       }
     }
 
